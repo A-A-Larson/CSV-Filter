@@ -1,4 +1,4 @@
-# CVS-Filter
+# CSV-Filter
 ## A Python program to filter data from a CVS file. This was made for an assignment in my Python I class. 
 ![image](https://github.com/user-attachments/assets/2ba5f36f-3eb2-47fd-b8da-7cf2d2f7f695)
 
